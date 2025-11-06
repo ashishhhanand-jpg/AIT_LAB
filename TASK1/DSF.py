@@ -18,5 +18,5 @@ graph = {
     'F': ['C', 'E']
 }
 
-# Starting from A
+
 bfs(graph, 'A')
